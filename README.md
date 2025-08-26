@@ -71,8 +71,6 @@ AuthDemoApp/
 │
 └─ README.md
 ```
----
-
 
 ---
 
@@ -84,5 +82,31 @@ AuthDemoApp/
 ```
 git clone https://github.com/yourusername/AuthDemoApp.git
 ```
+2. Navigate to backend folder:
+```
+cd AuthDemoApp/backend
+```
+3. Install dependencies:
+```
+composer install
+```
+4. Set up environment file:
+```
+cp .env.example .env
+```
+5. Generate application key:
+```
+php artisan key:generate
+```
+6. Run migrations:
+```
+php artisan migrate
+```
+7. Start the Laravel server:
+```
+php artisan serve
+```
+## Frontend (React)
 
+Navigate to frontend folder:
 ---
