@@ -18,7 +18,6 @@ A concise example that demonstrates my coding style: clean, well-structured, and
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 - [Contact](#contact)
 
@@ -124,5 +123,25 @@ npm run dev
 ```
 http://localhost:5173/
 ```
- 
 ---
+
+## Usage
+
+- Go to Register page to create a new user.
+- Use Login page to authenticate with your credentials.
+- After login, the user token is stored in context and used for authenticated API requests.
+- Logout will invalidate the current token and redirect to home.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE
+
+---
+
+## Contact
+
+- Francisco Batista de Lima Neto
+- GitHub: [https://github.com/yourusername](https://limanetolimaneto.github.io/)
+
