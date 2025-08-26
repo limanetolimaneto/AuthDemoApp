@@ -4,6 +4,13 @@ A concise example that demonstrates my coding style: clean, well-structured, and
 
 ---
 
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Laravel](https://img.shields.io/badge/backend-Laravel-red)
+![React](https://img.shields.io/badge/frontend-React-blue)
+![MySQL](https://img.shields.io/badge/database-MySQL-yellow)
+
+---
+
 ## Table of Contents
 
 - [Technologies](#technologies)
