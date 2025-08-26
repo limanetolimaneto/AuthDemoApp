@@ -45,4 +45,31 @@ A concise example that demonstrates my coding style: clean, well-structured, and
 
 ## Project Structure
 
+AuthDemoApp/
+│
+├─ backend/ # Laravel backend
+│ ├─ app/
+│ │ └─ Http/Controllers/AuthController.php
+│ ├─ routes/api.php
+│ └─ ...
+│
+├─ frontend/ # React frontend
+│ ├─ src/
+│ │ ├─ components/
+│ │ │ ├─ Layout.jsx
+│ │ │ ├─ Header.jsx
+│ │ │ ├─ Footer.jsx
+│ │ │ ├─ Home.jsx
+│ │ │ └─ ErrorMessage.jsx
+│ │ ├─ pages/
+│ │ │ ├─ Login.jsx
+│ │ │ └─ Register.jsx
+│ │ ├─ context/
+│ │ │ └─ AuthContext.jsx
+│ │ └─ App.jsx
+│ └─ ...
+│
+└─ README.md
+
+---
 
