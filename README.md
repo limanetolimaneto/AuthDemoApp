@@ -143,5 +143,5 @@ This project is licensed under the MIT License - see the LICENSE
 ## Contact
 
 - Francisco Batista de Lima Neto
-- GitHub: [https://github.com/yourusername](https://limanetolimaneto.github.io/)
+- GitHub: [github.com/limanetolimaneto]
 
