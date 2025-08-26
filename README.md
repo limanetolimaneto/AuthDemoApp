@@ -44,7 +44,7 @@ A concise example that demonstrates my coding style: clean, well-structured, and
 ---
 
 ## Project Structure
-
+```
 AuthDemoApp/
 │
 ├─ backend/ # Laravel backend
@@ -70,7 +70,7 @@ AuthDemoApp/
 │ └─ ...
 │
 └─ README.md
-
+```
 ---
 
 
