@@ -143,6 +143,6 @@ This project is licensed under the MIT License - see the LICENSE
 ## Contact
 
 - Francisco Batista de Lima Neto
-- GitHub: [github.com/limanetolimaneto]
+- GitHub: https://github.com/limanetolimaneto
 - Email: limaneto.sist@gmail.com
 
