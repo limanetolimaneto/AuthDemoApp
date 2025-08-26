@@ -106,7 +106,23 @@ php artisan migrate
 ```
 php artisan serve
 ```
-## Frontend (React)
+### Frontend (React)
 
-Navigate to frontend folder:
+1. Navigate to frontend folder:
+```
+cd AuthDemoApp/frontend
+```
+2. Install dependencies:
+```
+npm install
+```
+3. Start development server:
+```
+npm run dev
+```
+4. Open the application in your browser:
+```
+http://localhost:5173/
+```
+ 
 ---
